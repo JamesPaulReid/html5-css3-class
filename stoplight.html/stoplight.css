@@ -41,4 +41,4 @@
   }
   .green-light:hover {
     box-shadow: inset 0 0 100px 100px rgba(0, 255, 0, 100);
-  /* green-light on hover should be 100% green */
+  }
